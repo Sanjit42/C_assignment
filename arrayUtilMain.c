@@ -35,14 +35,14 @@ void test_for_resize_array() {
   assert(anatherArray.length == 3);
 }
 
-void find_index_from_an_array_when_give_a_numbae_of_that_array() {
-  int array[5] = {}
-}
+// void find_index_from_an_array_when_give_a_numbae_of_that_array() {
+//   int array[5] = {}
+// }
 
 int main(int argc, char const *argv[]) {
   creating_an_array_and_check_typesize_and_length();
   compare_two_arguments();
   test_for_resize_array();
-  find_index_from_an_array_when_give_a_value_of_that_array();
+  // find_index_from_an_array_when_give_a_value_of_that_array();
   return 0;
 }
